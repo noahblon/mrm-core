@@ -38,7 +38,7 @@
     "js-yaml": "^3.13.0",
     "kleur": "^2.0.2",
     "listify": "^1.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "minimist": "^1.2.0",
     "prop-ini": "^0.0.2",
     "readme-badger": "^0.3.0",
